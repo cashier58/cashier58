@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @cashier58
-- 👀 I’m interested in playing piano and sleeping 
-- 🌱 I’m currently learning English, beside I also learn about a new language, Chinese.
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
-- 😄 Pronouns: Chut
+- 👀 I’m interested in playing piano and reading fiction. 
+- 🌱 I’m currently learning programming languages such as java, python, js and their frameworks. In addition, I not only practice my English skills but also learn about a new language, Japanese. This is because Japanese people are extremely disciplined, I can learn from them and it is useful in my major. If i have a chance, I will try to learn another language, Chinese, for example.
+- 📫 How to reach me: Contact me by email, linkedin or facebook.
+- 😄 Pronouns: Thu Ngan.
 - ⚡ Fun fact: I really like to be alone in another corner in order to chill with my thinking.
 
 <!---
